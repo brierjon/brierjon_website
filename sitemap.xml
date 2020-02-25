@@ -18,8 +18,7 @@
 
       <loc>https://temp.brierjon.com/acm.html</loc>
 
-      <lastmod>2019-09-23</lastmod>
-
+      <lastmod>2020-02-25</lastmod>
       <changefreq>monthly</changefreq>
 
       <priority>0.8</priority>
@@ -30,7 +29,18 @@
 
       <loc>https://temp.brierjon.com/publicbookmarks.html</loc>
 
-      <lastmod>2019-09-23</lastmod>
+      <lastmod>2020-02-25</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+   <url>
+
+      <loc>https://temp.brierjon.com/publicbookmarks.html</loc>
+
+      <lastmod>2020-02-25</lastmod>
 
       <changefreq>monthly</changefreq>
 

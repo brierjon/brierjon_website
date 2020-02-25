@@ -1,0 +1,12 @@
+# If you would like to report a security issue use the following:
+# This file is based on the format suggested by securitytxt.org
+Contact: https://keybase.io/wolfgang8741
+Contact: https://brierjon.com/contact.html
+Contact: https://temp.brierjon.com/contact.html
+Encryption: https://brierjon.com/pgp-key.txt
+Encryption: https://temp.brierjon.com/pgp-key.txt
+Acknowledgments: https://temp.brierjon.com/hall-of-fame.html
+Preferred-Languages: en
+Canonical: https://brierjon.com/.well-known/security.txt
+Policy: https://brierjon.com/security-policy.html
+Policy: https://temp.brierjon.com/security-policy.html
